@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\bin\Debug\net8.0\Publications.Main.Application.deps.json
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\bin\Debug\net8.0\Publications.Main.Application.dll
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\bin\Debug\net8.0\Publications.Main.Application.pdb
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\bin\Debug\net8.0\Publications.Main.Domain.dll
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\bin\Debug\net8.0\Publications.Main.Domain.pdb
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\obj\Debug\net8.0\Publications.Main.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\obj\Debug\net8.0\Publications.Main.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\obj\Debug\net8.0\Publications.Main.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\obj\Debug\net8.0\Publications.Main.Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\obj\Debug\net8.0\Publications.Main.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\obj\Debug\net8.0\Publications.Main.Application.sourcelink.json
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\obj\Debug\net8.0\Publications.Main.Application.csproj.CopyComplete
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\obj\Debug\net8.0\Publications.Main.Application.dll
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\obj\Debug\net8.0\refint\Publications.Main.Application.dll
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\obj\Debug\net8.0\Publications.Main.Application.pdb
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Application\obj\Debug\net8.0\ref\Publications.Main.Application.dll

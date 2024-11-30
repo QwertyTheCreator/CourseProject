@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Common\bin\Debug\net8.0\Publications.Main.Common.deps.json
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Common\bin\Debug\net8.0\Publications.Main.Common.dll
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Common\bin\Debug\net8.0\Publications.Main.Common.pdb
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Common\obj\Debug\net8.0\Publications.Main.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Common\obj\Debug\net8.0\Publications.Main.Common.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Common\obj\Debug\net8.0\Publications.Main.Common.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Common\obj\Debug\net8.0\Publications.Main.Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Common\obj\Debug\net8.0\Publications.Main.Common.sourcelink.json
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Common\obj\Debug\net8.0\Publications.Main.Common.dll
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Common\obj\Debug\net8.0\refint\Publications.Main.Common.dll
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Common\obj\Debug\net8.0\Publications.Main.Common.pdb
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Common\obj\Debug\net8.0\ref\Publications.Main.Common.dll

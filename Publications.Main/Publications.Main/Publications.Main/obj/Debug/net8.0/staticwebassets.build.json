@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bG1kpLnXxk5GiLjThgKDxw2Ghfsd7DXCvF8x18EnDdk=",
+  "Source": "Publications.Main.WebAPI",
+  "BasePath": "_content/Publications.Main.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
