@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MG4r4snN6n5FXEkiapOXzYrfgbhb/fOgI+e5znwvCDZrzp7u+a3+9ouIY91SPptDk/jdUlMG55Pz2Q9OzzNXYw==",
+  "dgSpecHash": "t9PWQFWHpMLvlLIPaXqA/Qtj/LSdnL8ZpMNjMDaCIjNt8fWjcqyjfD8lKcOsZYPt0cB8LvzwcHMsR0hPiYPa1Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\Курсач\\Publications.Main\\Publications.Main\\Publications.Main.Application\\Publications.Main.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\mapster\\7.4.1-pre01\\mapster.7.4.1-pre01.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mapster.core\\1.2.2-pre01\\mapster.core.1.2.2-pre01.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mapster.dependencyinjection\\1.0.2-pre01\\mapster.dependencyinjection.1.0.2-pre01.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

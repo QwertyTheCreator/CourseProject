@@ -1,6 +1,8 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using Publications.Main.Application.Abstractions.Services;
 using Publications.Main.Application.Utils;
 using Publications.Main.Infrastructure.Configuration;
+using Publications.Main.Infrastructure.Services;
 
 namespace Publications.Main.Infrastructure;
 
@@ -19,6 +21,7 @@ public static class DependencyInjection
         });
 
         services.AddDatabase();
+        services.AddScoped<IAuthService, AuthService>();
 
         return services;
     }

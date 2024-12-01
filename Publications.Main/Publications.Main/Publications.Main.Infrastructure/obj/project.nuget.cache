@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "h5xz+b+gFBRMsql6hBsdJ3W8Pwyr1gy6en2QjLJkP04HQuDorr5lCNOUBXh3MM9g5hhN45hd1EkYiyfWjBD/dA==",
+  "dgSpecHash": "2ivlZx2z/x9wMqmt2ZXA1Y/pM5KUhETFBGJqT4tr3P/TN94FAlfTkAiX1PgnZfual35EBW0YHCynX6b8DJE9Ow==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\Курсач\\Publications.Main\\Publications.Main\\Publications.Main.Infrastructure\\Publications.Main.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mapster\\7.4.1-pre01\\mapster.7.4.1-pre01.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mapster.core\\1.2.2-pre01\\mapster.core.1.2.2-pre01.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mapster.dependencyinjection\\1.0.2-pre01\\mapster.dependencyinjection.1.0.2-pre01.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",

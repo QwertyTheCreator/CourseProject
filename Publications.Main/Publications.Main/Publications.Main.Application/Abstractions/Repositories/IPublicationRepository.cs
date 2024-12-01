@@ -2,4 +2,7 @@
 
 namespace Publications.Main.Application.Abstractions.Repositories;
 
-public interface IPublicationRepository : ICrudRepository<Publication>;
+public interface IPublicationRepository : ICrudRepository<Publication>
+{
+    Task<List<Publication>> GetPaged(int page, int pageSize);
+}
