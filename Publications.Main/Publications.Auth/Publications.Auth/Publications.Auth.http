@@ -1,0 +1,6 @@
+@Publications.Auth_HostAddress = http://localhost:5220
+
+GET {{Publications.Auth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
