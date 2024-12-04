@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mXwguUK3tIT+X5oAbiMc8pmnxw1IsNWDs9KxjYM8tYxCvLttW0VHynsksC9TG8ynAPBWeADPiNEqmwqK0Sve/g==",
+  "dgSpecHash": "EM1ExUrt62SumtULA8/ZZBtI3ZCUZmy0lGfdSHuPu2bZijwrjUpGgUjOefP6j7xfTrMeUobwfYRQuD+KPQ5bQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Main\\Publications.Main.Domain\\Publications.Main.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Курсач\\Publications.Main\\Publications.Main\\Publications.Main.Domain\\Publications.Main.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\glazk\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.0.0\\microsoft.identitymodel.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\glazk\\.nuget\\packages\\microsoft.identitymodel.logging\\8.0.0\\microsoft.identitymodel.logging.8.0.0.nupkg.sha512",
-    "C:\\Users\\glazk\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.0\\microsoft.identitymodel.tokens.8.0.0.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.0.0\\microsoft.identitymodel.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identitymodel.logging\\8.0.0\\microsoft.identitymodel.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.0\\microsoft.identitymodel.tokens.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

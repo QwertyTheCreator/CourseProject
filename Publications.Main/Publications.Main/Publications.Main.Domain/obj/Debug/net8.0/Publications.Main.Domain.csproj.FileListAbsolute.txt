@@ -23,3 +23,4 @@ C:\Users\glazk\source\repos\CourseProject\Publications.Main\Publications.Main\Pu
 C:\Users\glazk\source\repos\CourseProject\Publications.Main\Publications.Main\Publications.Main.Domain\obj\Debug\net8.0\Publications.Main.Domain.pdb
 C:\Users\glazk\source\repos\CourseProject\Publications.Main\Publications.Main\Publications.Main.Domain\obj\Debug\net8.0\ref\Publications.Main.Domain.dll
 C:\Users\glazk\source\repos\CourseProject\Publications.Main\Publications.Main\Publications.Main.Domain\obj\Debug\net8.0\Publications.Main.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Курсач\Publications.Main\Publications.Main\Publications.Main.Domain\obj\Debug\net8.0\Publications.Main.Domain.csproj.AssemblyReference.cache
