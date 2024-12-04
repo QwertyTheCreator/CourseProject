@@ -17,6 +17,7 @@ public class Program
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();
         builder.Services.AddHttpContextAccessor();
+        builder.Services.AddCors();
 
         builder.Services.AddInfrastructureServices();
         builder.Services.AddApplicationServices();
@@ -30,8 +31,15 @@ public class Program
             app.UseSwaggerUI();
         }
 
+        app.UseCors(builder =>
+            builder
+                .AllowAnyHeader()
+                .AllowAnyOrigin()
+                .AllowAnyMethod());
+            
         app.UseHttpsRedirection();
 
+        app.UseAuthentication();
         app.UseAuthorization();
 
         app.MapControllers();

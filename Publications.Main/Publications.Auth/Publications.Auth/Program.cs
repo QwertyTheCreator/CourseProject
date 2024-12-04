@@ -1,4 +1,7 @@
 
+using Publications.Auth.Configurations;
+using Publications.Auth.Services;
+
 namespace Publications.Auth
 {
     public class Program
@@ -14,6 +17,12 @@ namespace Publications.Auth
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddCors();
+            builder.Services.AddInfrastructureServices();
+            builder.Services.AddApplicationServices();
+
+            builder.Services.AddSingleton<TokenService>();
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -23,10 +32,16 @@ namespace Publications.Auth
                 app.UseSwaggerUI();
             }
 
+            app.UseCors(builder =>
+                builder
+                    .AllowAnyHeader()
+                    .AllowAnyOrigin()
+                    .AllowAnyMethod());
+
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
+            app.ApplyDatabaseMigrations();
 
             app.MapControllers();
 

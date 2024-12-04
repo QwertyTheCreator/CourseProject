@@ -1,8 +1,11 @@
 ﻿using Mapster;
 using Mapster.Utils;
 using MediatR;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.IdentityModel.Tokens;
 using Publications.Main.Application.Pipelines;
+using Publications.Main.Domain.Constants;
 using System.Reflection;
 
 namespace Publications.Main.Application;
@@ -21,6 +24,7 @@ public static class DependencyInjection
         services.AddMapster();
         TypeAdapterConfig.GlobalSettings.ScanInheritedTypes(typeof(DependencyInjection).Assembly);
 
+        services.AddAuth();
         services.AddPermissionManagers();
 
         return services;
@@ -28,6 +32,24 @@ public static class DependencyInjection
 
     private static IServiceCollection AddPermissionManagers(this IServiceCollection services)
     {
+
+        return services;
+    }
+
+    private static IServiceCollection AddAuth(this IServiceCollection services)
+    {
+        services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+             .AddJwtBearer(options =>
+                 options.TokenValidationParameters = new TokenValidationParameters
+                 {
+                     ValidateIssuer = true,
+                     ValidateAudience = true,
+                     ValidateLifetime = true,
+                     ValidateIssuerSigningKey = true,
+                     ValidIssuer = JwtOptions.ISSUER,
+                     ValidAudience = JwtOptions.AUDIENCE,
+                     IssuerSigningKey = JwtOptions.GetSymmetricSecurityKey()
+                 });
 
         return services;
     }

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49E9DFD7-CCB3-40CE-B483-0D2764153547}|Publications.Main\\Publications.Main.WebAPI.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.main\\publications.main\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E9DFD7-CCB3-40CE-B483-0D2764153547}|Publications.Main\\Publications.Main.WebAPI.csproj|solutionrelative:publications.main\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F437106-CA90-4AE5-AD47-B1370B62D520}|Publications.Main.Application\\Publications.Main.Application.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.main\\publications.main.application\\usecases\\_user_\\queries\\getuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F437106-CA90-4AE5-AD47-B1370B62D520}|Publications.Main.Application\\Publications.Main.Application.csproj|solutionrelative:publications.main.application\\usecases\\_user_\\queries\\getuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F437106-CA90-4AE5-AD47-B1370B62D520}|Publications.Main.Application\\Publications.Main.Application.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.main\\publications.main.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F437106-CA90-4AE5-AD47-B1370B62D520}|Publications.Main.Application\\Publications.Main.Application.csproj|solutionrelative:publications.main.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E9DFD7-CCB3-40CE-B483-0D2764153547}|Publications.Main\\Publications.Main.WebAPI.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.main\\publications.main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E9DFD7-CCB3-40CE-B483-0D2764153547}|Publications.Main\\Publications.Main.WebAPI.csproj|solutionrelative:publications.main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434CE503-720D-451A-AB61-DB62C9EB78C0}|Publications.Main.Domain\\Publications.Main.Domain.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.main\\publications.main.domain\\constants\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434CE503-720D-451A-AB61-DB62C9EB78C0}|Publications.Main.Domain\\Publications.Main.Domain.csproj|solutionrelative:publications.main.domain\\constants\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Main\\Publications.Main\\Program.cs",
+              "RelativeDocumentMoniker": "Publications.Main\\Program.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Main\\Publications.Main\\Program.cs",
+              "RelativeToolTip": "Publications.Main\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:53:26.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Main\\Publications.Main\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Publications.Main\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Main\\Publications.Main\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Publications.Main\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:51:21.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Main\\Publications.Main.Application\\UseCases\\_User_\\Queries\\GetUserUseCase.cs",
+              "RelativeDocumentMoniker": "Publications.Main.Application\\UseCases\\_User_\\Queries\\GetUserUseCase.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Main\\Publications.Main.Application\\UseCases\\_User_\\Queries\\GetUserUseCase.cs",
+              "RelativeToolTip": "Publications.Main.Application\\UseCases\\_User_\\Queries\\GetUserUseCase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:51:10.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Main\\Publications.Main.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Publications.Main.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Main\\Publications.Main.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Publications.Main.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:47:14.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Main\\Publications.Main.Domain\\Constants\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Publications.Main.Domain\\Constants\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Main\\Publications.Main.Domain\\Constants\\JwtOptions.cs",
+              "RelativeToolTip": "Publications.Main.Domain\\Constants\\JwtOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:46:31.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,711 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\entities\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\entities\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\usecases\\_user_\\commands\\createuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\usecases\\_user_\\commands\\createuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\repositories\\abstractions\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\repositories\\abstractions\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\usecases\\_token_\\loginusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\usecases\\_token_\\loginusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\usecases\\_user_\\queries\\getuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\usecases\\_user_\\queries\\getuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\repositories\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\repositories\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\configurations\\databseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\configurations\\databseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\repositories\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\repositories\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\controllers\\restapicontrroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\controllers\\restapicontrroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\publications.auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\publications.auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\migrations\\20241202111648_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\migrations\\20241202111648_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\pipelines\\itransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\pipelines\\itransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\pipelines\\transactionbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\pipelines\\transactionbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\entities\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\entities\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\entities\\enums\\errortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\entities\\enums\\errortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\seeds\\userseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\seeds\\userseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\seeds\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\seeds\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\entityconfigs\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\entityconfigs\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\migrator\\databasemigrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\migrator\\databasemigrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\seeds\\iseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\seeds\\iseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\configurations\\webapplicationextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\configurations\\webapplicationextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\entityconfigs\\roleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\entityconfigs\\roleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\models\\tokengeneratemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\models\\tokengeneratemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\repositories\\abstractions\\icrudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\repositories\\abstractions\\icrudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\repositories\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\repositories\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\database\\migrator\\idatabasemigrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\database\\migrator\\idatabasemigrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\configurations\\infrastructureconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\configurations\\infrastructureconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|c:\\users\\glazk\\source\\repos\\courseproject\\publications.main\\publications.auth\\publications.auth\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF65F2E0-2C97-4074-9FED-59CA5588BFF6}|Publications.Auth\\Publications.Auth.csproj|solutionrelative:publications.auth\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\UseCases\\_User_\\Commands\\CreateUserUseCase.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\UseCases\\_User_\\Commands\\CreateUserUseCase.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\UseCases\\_User_\\Commands\\CreateUserUseCase.cs",
+              "RelativeToolTip": "Publications.Auth\\UseCases\\_User_\\Commands\\CreateUserUseCase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:36:22.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "Publications.Auth\\Controllers\\TokenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:20:40.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Publications.Auth\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:46:49.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Repositories\\Abstractions\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\Repositories\\Abstractions\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Repositories\\Abstractions\\IRoleRepository.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\Repositories\\Abstractions\\IRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:02:37.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\Repositories\\RoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:02:19.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Program.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Program.cs",
+              "RelativeToolTip": "Publications.Auth\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:12:56.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\UseCases\\_Token_\\LoginUseCase.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\UseCases\\_Token_\\LoginUseCase.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\UseCases\\_Token_\\LoginUseCase.cs",
+              "RelativeToolTip": "Publications.Auth\\UseCases\\_Token_\\LoginUseCase.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:23:12.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\UseCases\\_User_\\Queries\\GetUserUseCase.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\UseCases\\_User_\\Queries\\GetUserUseCase.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\UseCases\\_User_\\Queries\\GetUserUseCase.cs",
+              "RelativeToolTip": "Publications.Auth\\UseCases\\_User_\\Queries\\GetUserUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:48:07.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Repositories\\Abstractions\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\Repositories\\Abstractions\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Repositories\\Abstractions\\IUserRepository.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\Repositories\\Abstractions\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:29:11.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:57:45.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatabseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Configurations\\DatabseConfiguration.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Configurations\\DatabseConfiguration.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Configurations\\DatabseConfiguration.cs",
+              "RelativeToolTip": "Publications.Auth\\Configurations\\DatabseConfiguration.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:20:40.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\DependencyInjection.cs",
+              "RelativeToolTip": "Publications.Auth\\DependencyInjection.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:27:43.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CrudRepository.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Repositories\\CrudRepository.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\Repositories\\CrudRepository.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Repositories\\CrudRepository.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\Repositories\\CrudRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:57:26.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RestApiContrroller.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Controllers\\RestApiContrroller.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Controllers\\RestApiContrroller.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Controllers\\RestApiContrroller.cs",
+              "RelativeToolTip": "Publications.Auth\\Controllers\\RestApiContrroller.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwBsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:59:36.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Models\\UserDto.cs",
+              "RelativeToolTip": "Publications.Auth\\Models\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:52:35.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Publications.Auth.csproj",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Publications.Auth.csproj",
+              "RelativeDocumentMoniker": "Publications.Auth\\Publications.Auth.csproj",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Publications.Auth.csproj",
+              "RelativeToolTip": "Publications.Auth\\Publications.Auth.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T11:58:53.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITransactionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Pipelines\\ITransactionRequest.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Pipelines\\ITransactionRequest.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Pipelines\\ITransactionRequest.cs",
+              "RelativeToolTip": "Publications.Auth\\Pipelines\\ITransactionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:58:23.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TransactionBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Pipelines\\TransactionBehaviour.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Pipelines\\TransactionBehaviour.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Pipelines\\TransactionBehaviour.cs",
+              "RelativeToolTip": "Publications.Auth\\Pipelines\\TransactionBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:52:58.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Entities\\User.cs",
+              "RelativeToolTip": "Publications.Auth\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:13:10.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Entities\\Error.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Entities\\Error.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Entities\\Error.cs",
+              "RelativeToolTip": "Publications.Auth\\Entities\\Error.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:53:54.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorType.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Entities\\Enums\\ErrorType.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Entities\\Enums\\ErrorType.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Entities\\Enums\\ErrorType.cs",
+              "RelativeToolTip": "Publications.Auth\\Entities\\Enums\\ErrorType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:54:02.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Models\\Result.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Models\\Result.cs",
+              "RelativeToolTip": "Publications.Auth\\Models\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:57:19.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HashService.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Services\\HashService.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Services\\HashService.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Services\\HashService.cs",
+              "RelativeToolTip": "Publications.Auth\\Services\\HashService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:34:01.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Seeds\\UserSeeder.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\Seeds\\UserSeeder.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Seeds\\UserSeeder.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\Seeds\\UserSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:31:53.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Seeds\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\Seeds\\RoleSeeder.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Seeds\\RoleSeeder.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\Seeds\\RoleSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:19:15.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241202111648_init.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Migrations\\20241202111648_init.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Migrations\\20241202111648_init.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Migrations\\20241202111648_init.cs",
+              "RelativeToolTip": "Publications.Auth\\Migrations\\20241202111648_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:16:48.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WebApplicationExtention.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Configurations\\WebApplicationExtention.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Configurations\\WebApplicationExtention.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Configurations\\WebApplicationExtention.cs",
+              "RelativeToolTip": "Publications.Auth\\Configurations\\WebApplicationExtention.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:13:20.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Entities\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Entities\\AuthOptions.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Entities\\AuthOptions.cs",
+              "RelativeToolTip": "Publications.Auth\\Entities\\AuthOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:49:13.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TokenGenerateModel.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Models\\TokenGenerateModel.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Models\\TokenGenerateModel.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Models\\TokenGenerateModel.cs",
+              "RelativeToolTip": "Publications.Auth\\Models\\TokenGenerateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:48:12.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\EntityConfigs\\RoleConfig.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\EntityConfigs\\RoleConfig.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\EntityConfigs\\RoleConfig.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\EntityConfigs\\RoleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:37:25.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\EntityConfigs\\UserConfig.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\EntityConfigs\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\EntityConfigs\\UserConfig.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\EntityConfigs\\UserConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:35:42.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Publications.Auth\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Publications.Auth\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T10:33:33.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ICrudRepository.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Repositories\\Abstractions\\ICrudRepository.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\Repositories\\Abstractions\\ICrudRepository.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Repositories\\Abstractions\\ICrudRepository.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\Repositories\\Abstractions\\ICrudRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:29:26.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Repositories\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\Repositories\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Repositories\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\Repositories\\Abstractions\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:24:55.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ISeeder.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Seeds\\ISeeder.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\Seeds\\ISeeder.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Seeds\\ISeeder.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\Seeds\\ISeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:23:52.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DatabaseMigrator.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Migrator\\DatabaseMigrator.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\Migrator\\DatabaseMigrator.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Migrator\\DatabaseMigrator.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\Migrator\\DatabaseMigrator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:23:19.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IDatabaseMigrator.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Migrator\\IDatabaseMigrator.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\Migrator\\IDatabaseMigrator.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\Migrator\\IDatabaseMigrator.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\Migrator\\IDatabaseMigrator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:22:24.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "InfrastructureConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Configurations\\InfrastructureConfiguration.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Configurations\\InfrastructureConfiguration.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Configurations\\InfrastructureConfiguration.cs",
+              "RelativeToolTip": "Publications.Auth\\Configurations\\InfrastructureConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:20:54.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "Publications.Auth\\Database\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:17:54.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Entities\\Role.cs",
+              "RelativeToolTip": "Publications.Auth\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:14:00.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Publications.Auth\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:12:36.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Publications.Auth\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\glazk\\source\\repos\\CourseProject\\Publications.Main\\Publications.Auth\\Publications.Auth\\Services\\TokenService.cs",
+              "RelativeToolTip": "Publications.Auth\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:10:12.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

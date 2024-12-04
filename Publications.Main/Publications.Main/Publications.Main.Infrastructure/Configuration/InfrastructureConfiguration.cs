@@ -3,4 +3,5 @@
 public class InfrastructureConfiguration
 {
     public string DbConnectionString { get; set; } = null!;
+    public string AuthServiceUrl { get; set; } = null!;
 }
