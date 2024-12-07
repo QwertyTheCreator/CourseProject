@@ -11,7 +11,7 @@ namespace Publications.Auth
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
+            builder.WebHost.UseUrls("http://192.168.0.121:5220");
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();

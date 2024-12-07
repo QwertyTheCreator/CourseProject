@@ -14,21 +14,21 @@ public record GetUserQuery : IRequest<Result<UserDto>>
 
 public class GetUserUseCase(
     IUserRepository userRepository,
-    IAuthService authService,
+    //IAuthService authService,
     IMapper mapper)
     : IRequestHandler<GetUserQuery, Result<UserDto>>
 {
     public async Task<Result<UserDto>> Handle(GetUserQuery request, CancellationToken cancellationToken)
     {
-        var tokenId = authService.UserId;
-        if (!tokenId.HasValue)
-        {
-            return Result<UserDto>.Failure(Error.Unauthorized());
-        }
+        //var tokenId = authService.UserId;
+        //if (!tokenId.HasValue)
+        //{
+        //    return Result<UserDto>.Failure(Error.Unauthorized());
+        //}
 
         var user = request.UserId.HasValue
             ? await userRepository.GetByIdAsync(request.UserId!.Value)
-            : await userRepository.GetByIdAsync(tokenId.Value);
+            : await userRepository.GetByIdAsync(Guid.Empty);
 
         return user == null
             ? Result<UserDto>.Failure(Error.NotFound("Пользователь не найден"))

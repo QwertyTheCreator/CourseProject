@@ -18,7 +18,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "DATABASE_CONNECTION": "Host=localhost;Port=5432;Database=Publications.Main;Username=postgres;Password=postgres",
-        "AUTH_URL": "https://localhost:7222/"
+        "AUTH_URL": "https://192.168.0.121:7222/"
       }
     },
     "https": {
@@ -30,7 +30,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "DATABASE_CONNECTION": "Host=localhost;Port=5432;Database=Publications.Main;Username=postgres;Password=postgres",
-        "AUTH_URL": "https://localhost:7222/"
+        "AUTH_URL": "http://192.168.0.121:5220/"
       }
     },
     "IIS Express": {

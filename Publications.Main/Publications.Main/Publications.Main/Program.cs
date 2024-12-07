@@ -1,6 +1,10 @@
+using GraphQL.AspNet.Configuration;
+using GraphQL.AspNet.Security;
+using GraphQL.AspNet.ServerExtensions.MultipartRequests;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.OpenApi.Models;
 using Publications.Main.Application;
+using Publications.Main.Application.Utils;
 using Publications.Main.Infrastructure;
 using Publications.Main.WebAPI.Configuration;
 
@@ -13,7 +17,14 @@ public class Program
         var builder = WebApplication.CreateBuilder(args);
 
         // Add services to the container.
-
+        builder.WebHost.UseUrls("https://192.168.0.121:7056");
+        builder.Services.AddGraphQL(o =>
+        {
+            o.QueryHandler.Route = "/api/graphql";
+            o.ResponseOptions.ExposeExceptions = true;
+            o.AuthorizationOptions.Method = AuthorizationMethod.PerRequest;
+            o.AddMultipartRequestSupport();          
+        });
         builder.Services.AddControllers();
         // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
         builder.Services.AddEndpointsApiExplorer();
@@ -66,7 +77,7 @@ public class Program
                 .AllowAnyMethod());
 
         app.UseHttpsRedirection();
-
+        app.UseGraphQL();
         app.UseAuthentication();
         app.UseAuthorization();
 
